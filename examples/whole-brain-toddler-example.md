@@ -1,8 +1,3 @@
----
-name: parenting-compass
-description: Ground parenting decisions in Whole-Brain Child principles rather than reactive emotions. Use when the user discusses parenting situations, meltdowns, discipline, being triggered, family dynamics, or asks "what should I do" about their child (under 3 years old). Helps move from lower-brain reactivity to whole-brain intentionality using connection-first strategies.
----
-
 # Parenting Compass
 
 This skill helps ground parenting decisions in your core values and principles, especially during emotionally charged moments. Based on research and frameworks from *The Whole-Brain Child* by Siegel & Bryson, *Raising Good Humans* by Hunter Clarke-Fields, and the *Let Grow Independence Kit* by the Let Grow Foundation (based on *Free-Range Kids: How Parents and Teachers Can Let Go and Let Grow* by Lenore Skenazy), it provides a comprehensive framework for moving from reactivity to intentionality—integrating brain science, parent self-regulation, and autonomy-building practices.
