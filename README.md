@@ -52,12 +52,12 @@ The generator adapts to different parenting approaches:
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/YOUR-USERNAME/parenting-compass-generator.git
+   git clone https://github.com/YOUR-USERNAME/parenting-compass-skill.git
    ```
 
 2. **Copy to your Claude skills directory:**
    ```bash
-   cp -r parenting-compass-generator/create-parenting-skill ~/.claude/skills/
+   cp -r parenting-compass-skill/create-parenting-skill ~/.claude/skills/
    ```
 
 3. **Verify installation:**
