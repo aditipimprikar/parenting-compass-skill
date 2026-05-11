@@ -4,7 +4,7 @@ A Claude Code skill that helps you create a personalized parenting framework gro
 
 ## What This Does
 
-This is an **interactive generator** that guides you through creating your own custom "Parenting Compass" - a values-based decision-making framework you can use during emotionally charged parenting moments.
+This is a **generator skill** that guides you through creating your own custom "Parenting Compass" - a values-based decision-making framework you can use during emotionally charged parenting moments.
 
 Instead of reacting from stress, exhaustion, or overwhelm, you'll have a clear framework grounded in YOUR specific values and goals to help you respond intentionally.
 
