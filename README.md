@@ -212,7 +212,7 @@ Particularly interested in:
 
 ## Acknowledgments
 
-Created by [Aditi Pimprikar](https://github.com/YOUR-USERNAME)
+Created by [Aditi Pimprikar](https://github.com/aditipimprikar)
 
 Inspired by the need for parenting guidance that's grounded in individual values rather than one-size-fits-all advice.
 
@@ -220,7 +220,7 @@ Built for the [Claude Code](https://claude.ai/code) skills system.
 
 ## Support
 
-Questions or issues? Open an issue in this repository or reach out to [your preferred contact method].
+Questions or issues? Open an issue in this repository or email me at pimprikar.aditi@gmail.com
 
 ---
 
