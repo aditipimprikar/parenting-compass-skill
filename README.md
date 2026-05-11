@@ -52,7 +52,7 @@ The generator adapts to different parenting approaches:
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/YOUR-USERNAME/parenting-compass-skill.git
+   git clone https://github.com/aditipimprikar/parenting-compass-skill.git
    ```
 
 2. **Copy to your Claude skills directory:**
