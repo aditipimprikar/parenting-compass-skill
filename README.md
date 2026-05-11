@@ -208,7 +208,7 @@ Particularly interested in:
 
 ## License
 
-[Choose your license - MIT, Apache 2.0, Creative Commons, etc.]
+[MIT](https://github.com/aditipimprikar/parenting-compass-generator/blob/main/LICENSE)
 
 ## Acknowledgments
 
